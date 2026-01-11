@@ -7,6 +7,7 @@ A simple Python program that converts temperature between celcius and fahrenheit
 - Celsius to fahrenheit conversion
 - Fahrenheit to celcius conversion
 - User input validation
+- exit option
 
 ## Technologies Used
 - Python 3
